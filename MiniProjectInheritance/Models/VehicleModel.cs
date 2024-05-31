@@ -6,6 +6,7 @@ namespace MiniProjectInheritance
     {
         public decimal DealerFee { get; set; }
 
+
         public void Purchase()
         {
 
